@@ -4,3 +4,5 @@ on Android.
 
 Script `echo.sh` should have `755` permissions. After editing any other file on
 Android and committing with Spck Code Editor file permision change to `644`.
+
+Edit from Android.
